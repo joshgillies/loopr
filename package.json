@@ -1,0 +1,22 @@
+{
+  "name": "loopr",
+  "version": "0.0.0",
+  "description": "A simple node module to streamline creation of common for loop patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshgillies/loopr.git"
+  },
+  "keywords": [
+    "for",
+    "loop",
+    "helper"
+  ],
+  "author": "Josh Gillies (contact@joshgilli.es)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "a63ca2dfeca6744f036fdb2478bf5a14c64dc12b"
+}
