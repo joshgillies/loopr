@@ -1,6 +1,5 @@
 module.exports = function loopr(input, output, callback) {
-  var lines = input
-    , length = lines.length
+  var length = input.length
     , i = 0;
 
   for ( ; i < length; i++) {
