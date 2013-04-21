@@ -3,7 +3,7 @@ module.exports = function loopr(input, output, callback) {
     , i = 0;
 
   for ( ; i < length; i++) {
-    callback(i, lines[i], output)
+    callback(i, input[i], output)
   }
 
   return output;
